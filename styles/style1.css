@@ -1,0 +1,76 @@
+
+
+.tablica1 #table1{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+   
+}
+
+.tablica1 #table1 tr td{
+    background-color: orange;
+    width:40%;
+    border: 5px solid white;
+}
+
+.tablica2{
+    padding-top:25px;
+}
+
+.tablica2 #tabel2{
+    width: 100%;
+    height: 130px;
+   background-color: white;
+}
+
+.tablica2 #tabel2 tr td{
+    background-color: yellow;
+    width: 100%;
+    border: 5px solid white;
+   /* background-color: rgba(0, 0, 0, 0);*//* prozrachnost*/
+}
+
+
+.tablica3{
+    padding-top: 25px;
+}
+
+.tablica3 #tabel3{
+    width: 100%;
+    height: 120px;
+    background-color: white;
+}
+
+.tablica3 #tabel3 tr td{
+    background-color: blue;
+    width: 30%;
+    border: 5px solid white;
+}
+
+.tablica4{
+padding-top: 25px ;
+}
+
+.tablica4 #tabel4{
+    width: 100%;
+    height: 110px;
+    background-color: white;
+}
+
+.tablica4 #tabel4 tr td{
+    width: 25%;
+    background-color: grey;
+    border: 5px solid white;
+}
+
+
+
+/*#tablica3 tr td{
+    background-color: blue;
+}
+
+
+#tabel4 tr td{
+    background-color: grey;
+}
+/*  position: absolute   читать

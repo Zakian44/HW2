@@ -1,0 +1,38 @@
+.golova{
+    height: 15vh;
+    width: 90%;
+    padding-right: 5%;
+    padding-left: 5%;
+    background-color: blue;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+}
+
+.meny{
+    position: fixed; /* Как задать конкретно боковое крепление?*/
+    height: 600px;
+    width: 10%;
+    background-color: rgba(red, green, blue, 0,5); /* Строка не раbотает*/
+}
+
+
+.central{
+ padding-left: 400px;   
+}
+
+.footer{ /*Футер вылазит за окно справа*/
+    height: 15vh;
+    width: 90%;
+    padding-right: 5%;
+    padding-left: 5%;
+    background-color: blue;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer p{
+    text-align: center;
+    color: white;
+}

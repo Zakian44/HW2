@@ -1,0 +1,29 @@
+.stroka1 p{
+    display: inline-block;
+    height: 100px;
+    width: 49%;
+    background-color: orange;
+}
+
+
+.stroka2 p{
+    display: inline-block;
+    height: 130px;
+    width: 98.3%;
+    background-color: yellow;
+}
+
+
+.stroka3 p{
+    display: inline-block;
+    height: 120px;
+    width: 32.6%;
+    background-color: blue;
+}
+
+.stroka4 p{
+    display: inline-block;
+    height: 110px;
+    width: 24.4%;
+    background-color: grey;
+}
